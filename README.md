@@ -2,6 +2,8 @@
 
 A small GTK4 desktop app for editing IPTV `.m3u` / `.m3u8` playlists. Written in Python, built for Debian 12 with the MATE desktop with a dark theme.
 
+<img width="1236" height="657" alt="screenshot" src="https://github.com/user-attachments/assets/4ef3b486-6971-45ec-9315-59e3b7306dd0" />
+
 ## Features
 
 - Open a playlist and edit it in a table: **reorder** (drag and drop or Move Up/Down), **add**, **edit** and **remove** channels
