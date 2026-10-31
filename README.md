@@ -46,7 +46,9 @@ sh install.sh --uninstall  # removes it again
 
 ## Configuration
 
-The server is set by `PUSH_TARGET` near the top of `m3u_manager.py`, in the same form as an `scp` destination:
+The server is set by `PUSH_TARGET` near the top of `m3u_manager.py`, in the same form as an `scp` destination. 
+
+You will need to edit the file to update the destination to match your SFTP host and point to the folder where the m3u files are stored. 
 
 ```python
 PUSH_TARGET = "user@host:/path/to/folder"
