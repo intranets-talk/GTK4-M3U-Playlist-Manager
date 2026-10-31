@@ -59,3 +59,5 @@ PUSH_TARGET = "user@host:/path/to/folder"
 - `<playlist>.bak` next to the playlist: copy of the file as it was when opened
 - `~/.cache/m3u-manager/logos/`: cached channel logos
 - `~/.local/share/m3u-manager/remote/`: local working copies of playlists downloaded from the server
+
+## MIT Licensed
